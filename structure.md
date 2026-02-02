@@ -1,12 +1,11 @@
 # openstack-knowledge-base
-─ README.md
-─ LICENSE
+- README.md
+- LICENSE
 - 00-introduction/
--- what-is-openstack.md
-│   ├── openstack-architecture-overview.md
-│   └── openstack-use-cases.md
-│
-├── 01-core-concepts/
+    - what-is-openstack.md
+    - openstack-architecture-overview.md
+    - openstack-use-cases.md
+- 01-core-concepts/
 │   ├── projects-and-domains.md
 │   ├── users-roles-policies.md
 │   ├── regions-availability-zones.md
