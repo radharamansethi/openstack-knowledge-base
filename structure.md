@@ -1,10 +1,8 @@
-openstack-knowledge-base/
-│
-├── README.md
-├── LICENSE
-│
-├── 00-introduction/
-│   ├── what-is-openstack.md
+# openstack-knowledge-base
+─ README.md
+─ LICENSE
+- 00-introduction/
+-- what-is-openstack.md
 │   ├── openstack-architecture-overview.md
 │   └── openstack-use-cases.md
 │
